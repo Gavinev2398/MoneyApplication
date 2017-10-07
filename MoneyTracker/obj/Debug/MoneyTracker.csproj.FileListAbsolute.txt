@@ -1,2 +1,15 @@
 F:\Year 3\Software Tools\MoneyTracker\MoneyTracker\bin\Debug\MoneyTracker.exe.config
 C:\Users\gavin\Source\Repos\MoneyApplication\MoneyTracker\bin\Debug\MoneyTracker.exe.config
+C:\Users\gavin\Source\Repos\MoneyApplication\MoneyTracker\bin\Debug\MoneyTracker.exe
+C:\Users\gavin\Source\Repos\MoneyApplication\MoneyTracker\bin\Debug\MoneyTracker.pdb
+C:\Users\gavin\Source\Repos\MoneyApplication\MoneyTracker\obj\Debug\MoneyTracker.csprojResolveAssemblyReference.cache
+C:\Users\gavin\Source\Repos\MoneyApplication\MoneyTracker\obj\Debug\MainWindow.g.cs
+C:\Users\gavin\Source\Repos\MoneyApplication\MoneyTracker\obj\Debug\App.g.cs
+C:\Users\gavin\Source\Repos\MoneyApplication\MoneyTracker\obj\Debug\MoneyTracker_MarkupCompile.cache
+C:\Users\gavin\Source\Repos\MoneyApplication\MoneyTracker\obj\Debug\MoneyTracker_MarkupCompile.lref
+C:\Users\gavin\Source\Repos\MoneyApplication\MoneyTracker\obj\Debug\MainWindow.baml
+C:\Users\gavin\Source\Repos\MoneyApplication\MoneyTracker\obj\Debug\MoneyTracker.g.resources
+C:\Users\gavin\Source\Repos\MoneyApplication\MoneyTracker\obj\Debug\MoneyTracker.Properties.Resources.resources
+C:\Users\gavin\Source\Repos\MoneyApplication\MoneyTracker\obj\Debug\MoneyTracker.csproj.GenerateResource.Cache
+C:\Users\gavin\Source\Repos\MoneyApplication\MoneyTracker\obj\Debug\MoneyTracker.exe
+C:\Users\gavin\Source\Repos\MoneyApplication\MoneyTracker\obj\Debug\MoneyTracker.pdb
