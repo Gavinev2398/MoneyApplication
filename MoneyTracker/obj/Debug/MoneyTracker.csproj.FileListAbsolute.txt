@@ -1,1 +1,2 @@
 F:\Year 3\Software Tools\MoneyTracker\MoneyTracker\bin\Debug\MoneyTracker.exe.config
+C:\Users\gavin\Source\Repos\MoneyApplication\MoneyTracker\bin\Debug\MoneyTracker.exe.config
